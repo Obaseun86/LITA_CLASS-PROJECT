@@ -20,4 +20,10 @@
  1. Data loading and Inspection
  2. handling missing files
  3. 
- 
+### Exploratory Data Analysis
+
+### Data Analysis
+
+```SQL
+SELECT * FROM TABLE1
+WHWERE CONDITION = TRUE
